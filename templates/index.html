@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>U.S. Labor Statistics</title>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="http://vizjs.org/viz.v1.1.0.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v0.3.min.js"></script>
+<link rel="style/sheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600">
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script> 
+<script src="static/animatescroll/animatescroll.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<!-- <link rel="stylesheet" type="text/css" media="screen" href="static/reset.css" /> -->
+<link rel="stylesheet" type="text/css" href="static/style.css">
+<link rel="stylesheet" type="text/css" href="static/sequences.css"/>
+<style type="text/css">
+
+</style>
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand"href="index.html">U.S. Labor Statistics</a>
+          </div>
+
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+
+              <li><a href="comparison.html">Classification Breakdown <span class="sr-only">(current)</span></a></li>
+              <li><a href="dendo.html">Data</a></li>
+              <li><a href="contact">About Us</a></li>
+            </ul>
+            <form class="navbar-form navbar-left">
+            </form>
+          </div>
+        </div>
+      </nav>
+
+    <div id=topDiv></div>
+    <button id="myBtn" title="Go to top" onclick="$('#topDiv').animatescroll();">Top</button>
+    <div class="container">
+        <section class="row">
+          <div class = "col-md-12">
+            <div class = "Intro">
+              <h1 class="intro-header">United States Labor Statistics</h1>
+              <hr>
+              <p>This website is designed to provide interactive visualizations of current labor breakdowns in the United States and create predictions based on current trands. Using public data from the U.S. Department of Labor Statistics, we created an interactive dashboard to show the labor breakdown of each state along with available historical data.</p>
+              <p>Select a state by clicking on it below to see a comparison of what industries are most people working in that state. To view a breakdown of the labor categories, select the 'Classification Breakdown' above.</p>
+  
+            </div>
+          </div>
+          <div class = "col-md-4">
+          </div>
+          </section>
+        </div>
+
+<div id="chloropleth">
+</div>
+
+      <div class="container">
+
+          <div id="chart" class="col-md-8">
+              <a onclick="$('#chart').animatescroll();"></a>
+            <hr>
+            <div id="explanation" style="visibility: hidden;">
+              <span id="percentage"></span>
+            </div>
+          </div>
+          <div id="jobhistory" class="col-md-4"><hr></div>
+      </div>
+      <hr>
+  <div id="bars">
+
+  </div>
+      
+</body>
+<footer class="footer navbar-fixed-bottom">
+    <p class="text-muted text-center">&copy; Analysis Copyright Jan Paul Tony Rutgers Data Science Bootcamp. Data property of U.S. Department of Labor Statistics</p>
+  </footer>
+
+<!-- <script type="text/javascript" src='static/bar.js'></script> -->
+<script type="text/javascript" src="static/map.js"></script>
+<script type="text/javascript" src="static/jobsequence.js"></script>
+<!-- <script type="text/javascript" src='static/bar.js'></script> -->
+</html>

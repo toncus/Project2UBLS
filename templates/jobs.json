@@ -1,0 +1,2858 @@
+{
+    "name": "Jobs",
+    "children": [
+        {
+            "name": "Management Occupations",
+            "children": [
+                {
+                    "name": "Administrative Services Managers",
+                    "value": "590"
+                },
+                {
+                    "name": "Advertising and Promotions Managers",
+                    "value": "60"
+                },
+                {
+                    "name": "Architectural and Engineering Managers",
+                    "value": "2450"
+                },
+                {
+                    "name": "Chief Executives",
+                    "value": "1120"
+                },
+                {
+                    "name": "Compensation and Benefits Managers",
+                    "value": "70"
+                },
+                {
+                    "name": "Computer and Information Systems Managers",
+                    "value": "3120"
+                },
+                {
+                    "name": "Construction Managers",
+                    "value": "2780"
+                },
+                {
+                    "name": "Education Administrators, All Other",
+                    "value": "590"
+                },
+                {
+                    "name": "Education Administrators, Elementary and Secondary School",
+                    "value": "3430"
+                },
+                {
+                    "name": "Education Administrators, Postsecondary",
+                    "value": "2430"
+                },
+                {
+                    "name": "Education Administrators, Preschool and Childcare Center/Program",
+                    "value": "170"
+                },
+                {
+                    "name": "Emergency Management Directors",
+                    "value": "190"
+                },
+                {
+                    "name": "Financial Managers",
+                    "value": "5200"
+                },
+                {
+                    "name": "Food Service Managers",
+                    "value": "2180"
+                },
+                {
+                    "name": "Funeral Service Managers",
+                    "value": "140"
+                },
+                {
+                    "name": "General and Operations Managers",
+                    "value": "27150"
+                },
+                {
+                    "name": "Human Resources Managers",
+                    "value": "1200"
+                },
+                {
+                    "name": "Industrial Production Managers",
+                    "value": "3240"
+                },
+                {
+                    "name": "Legislators",
+                    "value": "1100"
+                },
+                {
+                    "name": "Lodging Managers",
+                    "value": "530"
+                },
+                {
+                    "name": "Managers, All Other",
+                    "value": "2080"
+                },
+                {
+                    "name": "Marketing Managers",
+                    "value": "540"
+                },
+                {
+                    "name": "Medical and Health Services Managers",
+                    "value": "2810"
+                },
+                {
+                    "name": "Natural Sciences Managers",
+                    "value": "140"
+                },
+                {
+                    "name": "Postmasters and Mail Superintendents",
+                    "value": "280"
+                },
+                {
+                    "name": "Property, Real Estate, and Community Association Managers",
+                    "value": "590"
+                },
+                {
+                    "name": "Public Relations and Fundraising Managers",
+                    "value": "430"
+                },
+                {
+                    "name": "Purchasing Managers",
+                    "value": "900"
+                },
+                {
+                    "name": "Sales Managers",
+                    "value": "2220"
+                },
+                {
+                    "name": "Social and Community Service Managers",
+                    "value": "1280"
+                },
+                {
+                    "name": "Training and Development Managers",
+                    "value": "140"
+                },
+                {
+                    "name": "Transportation, Storage, and Distribution Managers",
+                    "value": "750"
+                }
+            ]
+        },
+        {
+            "name": "Business and Financial Operations Occupations",
+            "children": [
+                {
+                    "name": "Accountants and Auditors",
+                    "value": "15770"
+                },
+                {
+                    "name": "Appraisers and Assessors of Real Estate",
+                    "value": "670"
+                },
+                {
+                    "name": "Budget Analysts",
+                    "value": "840"
+                },
+                {
+                    "name": "Business Operations Specialists, All Other",
+                    "value": "7230"
+                },
+                {
+                    "name": "Buyers and Purchasing Agents",
+                    "value": "6750"
+                },
+                {
+                    "name": "Claims Adjusters, Examiners, and Investigators",
+                    "value": "3830"
+                },
+                {
+                    "name": "Compensation, Benefits, and Job Analysis Specialists",
+                    "value": "580"
+                },
+                {
+                    "name": "Compliance Officers",
+                    "value": "1460"
+                },
+                {
+                    "name": "Cost Estimators",
+                    "value": "2070"
+                },
+                {
+                    "name": "Credit Analysts",
+                    "value": "580"
+                },
+                {
+                    "name": "Credit Counselors",
+                    "value": "170"
+                },
+                {
+                    "name": "Financial Analysts",
+                    "value": "1220"
+                },
+                {
+                    "name": "Financial Examiners",
+                    "value": "800"
+                },
+                {
+                    "name": "Financial Specialists, All Other",
+                    "value": "670"
+                },
+                {
+                    "name": "Fundraisers",
+                    "value": "650"
+                },
+                {
+                    "name": "Human Resources Specialists",
+                    "value": "5400"
+                },
+                {
+                    "name": "Insurance Appraisers, Auto Damage",
+                    "value": "370"
+                },
+                {
+                    "name": "Insurance Underwriters",
+                    "value": "1060"
+                },
+                {
+                    "name": "Labor Relations Specialists",
+                    "value": "1010"
+                },
+                {
+                    "name": "Loan Officers",
+                    "value": "3850"
+                },
+                {
+                    "name": "Logisticians",
+                    "value": "3590"
+                },
+                {
+                    "name": "Management Analysts",
+                    "value": "4250"
+                },
+                {
+                    "name": "Market Research Analysts and Marketing Specialists",
+                    "value": "3370"
+                },
+                {
+                    "name": "Meeting, Convention, and Event Planners",
+                    "value": "400"
+                },
+                {
+                    "name": "Personal Financial Advisors",
+                    "value": "1950"
+                },
+                {
+                    "name": "Tax Examiners and Collectors, and Revenue Agents",
+                    "value": "1130"
+                },
+                {
+                    "name": "Tax Preparers",
+                    "value": "800"
+                },
+                {
+                    "name": "Training and Development Specialists",
+                    "value": "2610"
+                }
+            ]
+        },
+        {
+            "name": "Computer and Mathematical Occupations",
+            "children": [
+                {
+                    "name": "Actuaries",
+                    "value": "80"
+                },
+                {
+                    "name": "Computer Network Architects",
+                    "value": "830"
+                },
+                {
+                    "name": "Computer Network Support Specialists",
+                    "value": "1000"
+                },
+                {
+                    "name": "Computer Occupations, All Other",
+                    "value": "1810"
+                },
+                {
+                    "name": "Computer Programmers",
+                    "value": "7420"
+                },
+                {
+                    "name": "Computer Systems Analysts",
+                    "value": "4010"
+                },
+                {
+                    "name": "Computer User Support Specialists",
+                    "value": "5930"
+                },
+                {
+                    "name": "Database Administrators",
+                    "value": "1910"
+                },
+                {
+                    "name": "Information Security Analysts",
+                    "value": "1100"
+                },
+                {
+                    "name": "Network and Computer Systems Administrators",
+                    "value": "4230"
+                },
+                {
+                    "name": "Operations Research Analysts",
+                    "value": "670"
+                },
+                {
+                    "name": "Software Developers, Applications",
+                    "value": "5540"
+                },
+                {
+                    "name": "Software Developers, Systems Software",
+                    "value": "3720"
+                },
+                {
+                    "name": "Statisticians",
+                    "value": "180"
+                },
+                {
+                    "name": "Web Developers",
+                    "value": "600"
+                }
+            ]
+        },
+        {
+            "name": "Architecture and Engineering Occupations",
+            "children": [
+                {
+                    "name": "Aerospace Engineering and Operations Technicians",
+                    "value": "410"
+                },
+                {
+                    "name": "Aerospace Engineers",
+                    "value": "4660"
+                },
+                {
+                    "name": "Architects, Except Landscape and Naval",
+                    "value": "1090"
+                },
+                {
+                    "name": "Architectural and Civil Drafters",
+                    "value": "1080"
+                },
+                {
+                    "name": "Cartographers and Photogrammetrists",
+                    "value": "170"
+                },
+                {
+                    "name": "Chemical Engineers",
+                    "value": "450"
+                },
+                {
+                    "name": "Civil Engineering Technicians",
+                    "value": "1320"
+                },
+                {
+                    "name": "Civil Engineers",
+                    "value": "3960"
+                },
+                {
+                    "name": "Computer Hardware Engineers",
+                    "value": "1320"
+                },
+                {
+                    "name": "Drafters, All Other",
+                    "value": "180"
+                },
+                {
+                    "name": "Electrical Engineers",
+                    "value": "4440"
+                },
+                {
+                    "name": "Electrical and Electronics Drafters",
+                    "value": "240"
+                },
+                {
+                    "name": "Electrical and Electronics Engineering Technicians",
+                    "value": "1750"
+                },
+                {
+                    "name": "Electro-Mechanical Technicians",
+                    "value": "140"
+                },
+                {
+                    "name": "Electronics Engineers, Except Computer",
+                    "value": "2120"
+                },
+                {
+                    "name": "Engineering Technicians, Except Drafters, All Other",
+                    "value": "660"
+                },
+                {
+                    "name": "Engineers, All Other",
+                    "value": "3580"
+                },
+                {
+                    "name": "Environmental Engineering Technicians",
+                    "value": "280"
+                },
+                {
+                    "name": "Environmental Engineers",
+                    "value": "750"
+                },
+                {
+                    "name": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+                    "value": "380"
+                },
+                {
+                    "name": "Industrial Engineering Technicians",
+                    "value": "1050"
+                },
+                {
+                    "name": "Industrial Engineers",
+                    "value": "5510"
+                },
+                {
+                    "name": "Landscape Architects",
+                    "value": "40"
+                },
+                {
+                    "name": "Materials Engineers",
+                    "value": "640"
+                },
+                {
+                    "name": "Mechanical Drafters",
+                    "value": "600"
+                },
+                {
+                    "name": "Mechanical Engineering Technicians",
+                    "value": "670"
+                },
+                {
+                    "name": "Mechanical Engineers",
+                    "value": "3550"
+                },
+                {
+                    "name": "Mining and Geological Engineers, Including Mining Safety Engineers",
+                    "value": "170"
+                },
+                {
+                    "name": "Nuclear Engineers",
+                    "value": "180"
+                },
+                {
+                    "name": "Petroleum Engineers",
+                    "value": "130"
+                },
+                {
+                    "name": "Surveying and Mapping Technicians",
+                    "value": "770"
+                },
+                {
+                    "name": "Surveyors",
+                    "value": "560"
+                }
+            ]
+        },
+        {
+            "name": "Life, Physical, and Social Science Occupations",
+            "children": [
+                {
+                    "name": "Agricultural and Food Science Technicians",
+                    "value": "110"
+                },
+                {
+                    "name": "Anthropologists and Archeologists",
+                    "value": "70"
+                },
+                {
+                    "name": "Atmospheric and Space Scientists",
+                    "value": "270"
+                },
+                {
+                    "name": "Biological Scientists, All Other",
+                    "value": "210"
+                },
+                {
+                    "name": "Biological Technicians",
+                    "value": "320"
+                },
+                {
+                    "name": "Chemical Technicians",
+                    "value": "990"
+                },
+                {
+                    "name": "Chemists",
+                    "value": "530"
+                },
+                {
+                    "name": "Clinical, Counseling, and School Psychologists",
+                    "value": "610"
+                },
+                {
+                    "name": "Conservation Scientists",
+                    "value": "100"
+                },
+                {
+                    "name": "Economists",
+                    "value": "40"
+                },
+                {
+                    "name": "Environmental Science and Protection Technicians, Including Health",
+                    "value": "310"
+                },
+                {
+                    "name": "Environmental Scientists and Specialists, Including Health",
+                    "value": "890"
+                },
+                {
+                    "name": "Food Scientists and Technologists",
+                    "value": "40"
+                },
+                {
+                    "name": "Forensic Science Technicians",
+                    "value": "180"
+                },
+                {
+                    "name": "Forest and Conservation Technicians",
+                    "value": "220"
+                },
+                {
+                    "name": "Foresters",
+                    "value": "210"
+                },
+                {
+                    "name": "Geological and Petroleum Technicians",
+                    "value": "90"
+                },
+                {
+                    "name": "Geoscientists, Except Hydrologists and Geographers",
+                    "value": "260"
+                },
+                {
+                    "name": "Historians",
+                    "value": "40"
+                },
+                {
+                    "name": "Life Scientists, All Other",
+                    "value": "90"
+                },
+                {
+                    "name": "Life, Physical, and Social Science Technicians, All Other",
+                    "value": "980"
+                },
+                {
+                    "name": "Materials Scientists",
+                    "value": "80"
+                },
+                {
+                    "name": "Medical Scientists, Except Epidemiologists",
+                    "value": "180"
+                },
+                {
+                    "name": "Physical Scientists, All Other",
+                    "value": "100"
+                },
+                {
+                    "name": "Physicists",
+                    "value": "200"
+                },
+                {
+                    "name": "Psychologists, All Other",
+                    "value": "130"
+                },
+                {
+                    "name": "Social Scientists and Related Workers, All Other",
+                    "value": "240"
+                },
+                {
+                    "name": "Soil and Plant Scientists",
+                    "value": "30"
+                },
+                {
+                    "name": "Urban and Regional Planners",
+                    "value": "330"
+                },
+                {
+                    "name": "Zoologists and Wildlife Biologists",
+                    "value": "100"
+                }
+            ]
+        },
+        {
+            "name": "Community and Social Service Occupations",
+            "children": [
+                {
+                    "name": "Child, Family, and School Social Workers",
+                    "value": "3280"
+                },
+                {
+                    "name": "Clergy",
+                    "value": "440"
+                },
+                {
+                    "name": "Community Health Workers",
+                    "value": "800"
+                },
+                {
+                    "name": "Community and Social Service Specialists, All Other",
+                    "value": "210"
+                },
+                {
+                    "name": "Counselors, All Other",
+                    "value": "140"
+                },
+                {
+                    "name": "Directors, Religious Activities and Education",
+                    "value": "30"
+                },
+                {
+                    "name": "Educational, Guidance, School, and Vocational Counselors",
+                    "value": "3540"
+                },
+                {
+                    "name": "Health Educators",
+                    "value": "300"
+                },
+                {
+                    "name": "Healthcare Social Workers",
+                    "value": "2380"
+                },
+                {
+                    "name": "Marriage and Family Therapists",
+                    "value": "210"
+                },
+                {
+                    "name": "Mental Health and Substance Abuse Social Workers",
+                    "value": "1180"
+                },
+                {
+                    "name": "Probation Officers and Correctional Treatment Specialists",
+                    "value": "1010"
+                },
+                {
+                    "name": "Rehabilitation Counselors",
+                    "value": "970"
+                },
+                {
+                    "name": "Social Workers, All Other",
+                    "value": "400"
+                },
+                {
+                    "name": "Social and Human Service Assistants",
+                    "value": "1360"
+                },
+                {
+                    "name": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors",
+                    "value": "1720"
+                }
+            ]
+        },
+        {
+            "name": "Legal Occupations",
+            "children": [
+                {
+                    "name": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+                    "value": "110"
+                },
+                {
+                    "name": "Arbitrators, Mediators, and Conciliators",
+                    "value": "50"
+                },
+                {
+                    "name": "Court Reporters",
+                    "value": "280"
+                },
+                {
+                    "name": "Judges, Magistrate Judges, and Magistrates",
+                    "value": "500"
+                },
+                {
+                    "name": "Lawyers",
+                    "value": "5640"
+                },
+                {
+                    "name": "Legal Support Workers, All Other",
+                    "value": "250"
+                },
+                {
+                    "name": "Paralegals and Legal Assistants",
+                    "value": "3010"
+                },
+                {
+                    "name": "Title Examiners, Abstractors, and Searchers",
+                    "value": "220"
+                }
+            ]
+        },
+        {
+            "name": "Education, Training, and Library Occupations",
+            "children": [
+                {
+                    "name": "Adult Basic and Secondary Education and Literacy Teachers and Instructors",
+                    "value": "500"
+                },
+                {
+                    "name": "Agricultural Sciences Teachers, Postsecondary",
+                    "value": "260"
+                },
+                {
+                    "name": "Anthropology and Archeology Teachers, Postsecondary",
+                    "value": "40"
+                },
+                {
+                    "name": "Architecture Teachers, Postsecondary",
+                    "value": "90"
+                },
+                {
+                    "name": "Archivists",
+                    "value": "80"
+                },
+                {
+                    "name": "Art, Drama, and Music Teachers, Postsecondary",
+                    "value": "710"
+                },
+                {
+                    "name": "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+                    "value": "60"
+                },
+                {
+                    "name": "Biological Science Teachers, Postsecondary",
+                    "value": "580"
+                },
+                {
+                    "name": "Business Teachers, Postsecondary",
+                    "value": "1060"
+                },
+                {
+                    "name": "Chemistry Teachers, Postsecondary",
+                    "value": "280"
+                },
+                {
+                    "name": "Communications Teachers, Postsecondary",
+                    "value": "220"
+                },
+                {
+                    "name": "Computer Science Teachers, Postsecondary",
+                    "value": "330"
+                },
+                {
+                    "name": "Criminal Justice and Law Enforcement Teachers, Postsecondary",
+                    "value": "80"
+                },
+                {
+                    "name": "Curators",
+                    "value": "90"
+                },
+                {
+                    "name": "Economics Teachers, Postsecondary",
+                    "value": "130"
+                },
+                {
+                    "name": "Education Teachers, Postsecondary",
+                    "value": "860"
+                },
+                {
+                    "name": "Education, Training, and Library Workers, All Other",
+                    "value": "1200"
+                },
+                {
+                    "name": "Elementary School Teachers, Except Special Education",
+                    "value": "24150"
+                },
+                {
+                    "name": "Engineering Teachers, Postsecondary",
+                    "value": "560"
+                },
+                {
+                    "name": "English Language and Literature Teachers, Postsecondary",
+                    "value": "870"
+                },
+                {
+                    "name": "Farm and Home Management Advisors",
+                    "value": "350"
+                },
+                {
+                    "name": "Foreign Language and Literature Teachers, Postsecondary",
+                    "value": "140"
+                },
+                {
+                    "name": "Geography Teachers, Postsecondary",
+                    "value": "70"
+                },
+                {
+                    "name": "Graduate Teaching Assistants",
+                    "value": "90"
+                },
+                {
+                    "name": "Health Specialties Teachers, Postsecondary",
+                    "value": "3000"
+                },
+                {
+                    "name": "History Teachers, Postsecondary",
+                    "value": "310"
+                },
+                {
+                    "name": "Home Economics Teachers, Postsecondary",
+                    "value": "150"
+                },
+                {
+                    "name": "Instructional Coordinators",
+                    "value": "1310"
+                },
+                {
+                    "name": "Kindergarten Teachers, Except Special Education",
+                    "value": "610"
+                },
+                {
+                    "name": "Law Teachers, Postsecondary",
+                    "value": "100"
+                },
+                {
+                    "name": "Librarians",
+                    "value": "2170"
+                },
+                {
+                    "name": "Library Science Teachers, Postsecondary",
+                    "value": "140"
+                },
+                {
+                    "name": "Library Technicians",
+                    "value": "670"
+                },
+                {
+                    "name": "Mathematical Science Teachers, Postsecondary",
+                    "value": "670"
+                },
+                {
+                    "name": "Middle School Teachers, Except Special and Career/Technical Education",
+                    "value": "9960"
+                },
+                {
+                    "name": "Museum Technicians and Conservators",
+                    "value": "80"
+                },
+                {
+                    "name": "Nursing Instructors and Teachers, Postsecondary",
+                    "value": "1490"
+                },
+                {
+                    "name": "Philosophy and Religion Teachers, Postsecondary",
+                    "value": "220"
+                },
+                {
+                    "name": "Physics Teachers, Postsecondary",
+                    "value": "160"
+                },
+                {
+                    "name": "Political Science Teachers, Postsecondary",
+                    "value": "150"
+                },
+                {
+                    "name": "Postsecondary Teachers, All Other",
+                    "value": "3370"
+                },
+                {
+                    "name": "Preschool Teachers, Except Special Education",
+                    "value": "1790"
+                },
+                {
+                    "name": "Psychology Teachers, Postsecondary",
+                    "value": "360"
+                },
+                {
+                    "name": "Recreation and Fitness Studies Teachers, Postsecondary",
+                    "value": "230"
+                },
+                {
+                    "name": "Secondary School Teachers, Except Special and Career/Technical Education",
+                    "value": "15610"
+                },
+                {
+                    "name": "Self-Enrichment Education Teachers",
+                    "value": "2000"
+                },
+                {
+                    "name": "Sociology Teachers, Postsecondary",
+                    "value": "120"
+                },
+                {
+                    "name": "Special Education Teachers, Kindergarten and Elementary School",
+                    "value": "1040"
+                },
+                {
+                    "name": "Special Education Teachers, Middle School",
+                    "value": "420"
+                },
+                {
+                    "name": "Special Education Teachers, Preschool",
+                    "value": "40"
+                },
+                {
+                    "name": "Special Education Teachers, Secondary School",
+                    "value": "600"
+                },
+                {
+                    "name": "Substitute Teachers",
+                    "value": "10500"
+                },
+                {
+                    "name": "Teacher Assistants",
+                    "value": "8880"
+                },
+                {
+                    "name": "Teachers and Instructors, All Other, Except Substitute Teachers",
+                    "value": "1540"
+                },
+                {
+                    "name": "Vocational Education Teachers, Postsecondary",
+                    "value": "1990"
+                }
+            ]
+        },
+        {
+            "name": "Arts, Design, Entertainment, Sports, and Media Occupations",
+            "children": [
+                {
+                    "name": "Art Directors",
+                    "value": "220"
+                },
+                {
+                    "name": "Artists and Related Workers, All Other",
+                    "value": "50"
+                },
+                {
+                    "name": "Audio and Video Equipment Technicians",
+                    "value": "870"
+                },
+                {
+                    "name": "Broadcast Technicians",
+                    "value": "400"
+                },
+                {
+                    "name": "Camera Operators, Television, Video, and Motion Picture",
+                    "value": "170"
+                },
+                {
+                    "name": "Coaches and Scouts",
+                    "value": "2570"
+                },
+                {
+                    "name": "Commercial and Industrial Designers",
+                    "value": "180"
+                },
+                {
+                    "name": "Craft Artists",
+                    "value": "140"
+                },
+                {
+                    "name": "Designers, All Other",
+                    "value": "90"
+                },
+                {
+                    "name": "Editors",
+                    "value": "490"
+                },
+                {
+                    "name": "Entertainers and Performers, Sports and Related Workers, All Other",
+                    "value": "50"
+                },
+                {
+                    "name": "Film and Video Editors",
+                    "value": "120"
+                },
+                {
+                    "name": "Floral Designers",
+                    "value": "650"
+                },
+                {
+                    "name": "Graphic Designers",
+                    "value": "1670"
+                },
+                {
+                    "name": "Interior Designers",
+                    "value": "600"
+                },
+                {
+                    "name": "Interpreters and Translators",
+                    "value": "240"
+                },
+                {
+                    "name": "Media and Communication Equipment Workers, All Other",
+                    "value": "100"
+                },
+                {
+                    "name": "Merchandise Displayers and Window Trimmers",
+                    "value": "2940"
+                },
+                {
+                    "name": "Multimedia Artists and Animators",
+                    "value": "140"
+                },
+                {
+                    "name": "Music Directors and Composers",
+                    "value": "70"
+                },
+                {
+                    "name": "Musicians and Singers",
+                    "value": "90"
+                },
+                {
+                    "name": "Photographers",
+                    "value": "480"
+                },
+                {
+                    "name": "Producers and Directors",
+                    "value": "650"
+                },
+                {
+                    "name": "Public Address System and Other Announcers",
+                    "value": "50"
+                },
+                {
+                    "name": "Public Relations Specialists",
+                    "value": "1760"
+                },
+                {
+                    "name": "Radio and Television Announcers",
+                    "value": "260"
+                },
+                {
+                    "name": "Reporters and Correspondents",
+                    "value": "470"
+                },
+                {
+                    "name": "Set and Exhibit Designers",
+                    "value": "40"
+                },
+                {
+                    "name": "Technical Writers",
+                    "value": "700"
+                },
+                {
+                    "name": "Umpires, Referees, and Other Sports Officials",
+                    "value": "80"
+                },
+                {
+                    "name": "Writers and Authors",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "name": "Healthcare Practitioners and Technical Occupations",
+            "children": [
+                {
+                    "name": "Anesthesiologists",
+                    "value": "470"
+                },
+                {
+                    "name": "Athletic Trainers",
+                    "value": "500"
+                },
+                {
+                    "name": "Audiologists",
+                    "value": "90"
+                },
+                {
+                    "name": "Cardiovascular Technologists and Technicians",
+                    "value": "600"
+                },
+                {
+                    "name": "Chiropractors",
+                    "value": "250"
+                },
+                {
+                    "name": "Clinical Laboratory Technologists and Technicians",
+                    "value": "4650"
+                },
+                {
+                    "name": "Dental Hygienists",
+                    "value": "3390"
+                },
+                {
+                    "name": "Dentists, All Other Specialists",
+                    "value": "40"
+                },
+                {
+                    "name": "Dentists, General",
+                    "value": "1010"
+                },
+                {
+                    "name": "Diagnostic Medical Sonographers",
+                    "value": "1130"
+                },
+                {
+                    "name": "Dietetic Technicians",
+                    "value": "140"
+                },
+                {
+                    "name": "Dietitians and Nutritionists",
+                    "value": "820"
+                },
+                {
+                    "name": "Emergency Medical Technicians and Paramedics",
+                    "value": "3920"
+                },
+                {
+                    "name": "Exercise Physiologists",
+                    "value": "60"
+                },
+                {
+                    "name": "Family and General Practitioners",
+                    "value": "660"
+                },
+                {
+                    "name": "Health Technologists and Technicians, All Other",
+                    "value": "680"
+                },
+                {
+                    "name": "Healthcare Practitioners and Technical Workers, All Other",
+                    "value": "630"
+                },
+                {
+                    "name": "Internists, General",
+                    "value": "340"
+                },
+                {
+                    "name": "Licensed Practical and Licensed Vocational Nurses",
+                    "value": "12860"
+                },
+                {
+                    "name": "Magnetic Resonance Imaging Technologists",
+                    "value": "510"
+                },
+                {
+                    "name": "Medical Records and Health Information Technicians",
+                    "value": "2700"
+                },
+                {
+                    "name": "Nuclear Medicine Technologists",
+                    "value": "360"
+                },
+                {
+                    "name": "Nurse Anesthetists",
+                    "value": "1400"
+                },
+                {
+                    "name": "Nurse Practitioners",
+                    "value": "3230"
+                },
+                {
+                    "name": "Obstetricians and Gynecologists",
+                    "value": "210"
+                },
+                {
+                    "name": "Occupational Health and Safety Specialists",
+                    "value": "1390"
+                },
+                {
+                    "name": "Occupational Health and Safety Technicians",
+                    "value": "230"
+                },
+                {
+                    "name": "Occupational Therapists",
+                    "value": "1200"
+                },
+                {
+                    "name": "Ophthalmic Medical Technicians",
+                    "value": "610"
+                },
+                {
+                    "name": "Opticians, Dispensing",
+                    "value": "1090"
+                },
+                {
+                    "name": "Optometrists",
+                    "value": "510"
+                },
+                {
+                    "name": "Orthotists and Prosthetists",
+                    "value": "160"
+                },
+                {
+                    "name": "Pediatricians, General",
+                    "value": "470"
+                },
+                {
+                    "name": "Pharmacists",
+                    "value": "5430"
+                },
+                {
+                    "name": "Pharmacy Technicians",
+                    "value": "7340"
+                },
+                {
+                    "name": "Physical Therapists",
+                    "value": "2520"
+                },
+                {
+                    "name": "Physician Assistants",
+                    "value": "720"
+                },
+                {
+                    "name": "Physicians and Surgeons, All Other",
+                    "value": "5390"
+                },
+                {
+                    "name": "Podiatrists",
+                    "value": "110"
+                },
+                {
+                    "name": "Psychiatric Technicians",
+                    "value": "990"
+                },
+                {
+                    "name": "Radiation Therapists",
+                    "value": "310"
+                },
+                {
+                    "name": "Radiologic Technologists",
+                    "value": "3550"
+                },
+                {
+                    "name": "Recreational Therapists",
+                    "value": "130"
+                },
+                {
+                    "name": "Registered Nurses",
+                    "value": "49290"
+                },
+                {
+                    "name": "Respiratory Therapists",
+                    "value": "2470"
+                },
+                {
+                    "name": "Speech-Language Pathologists",
+                    "value": "1580"
+                },
+                {
+                    "name": "Surgeons",
+                    "value": "490"
+                },
+                {
+                    "name": "Surgical Technologists",
+                    "value": "2130"
+                },
+                {
+                    "name": "Veterinarians",
+                    "value": "980"
+                },
+                {
+                    "name": "Veterinary Technologists and Technicians",
+                    "value": "1000"
+                }
+            ]
+        },
+        {
+            "name": "Healthcare Support Occupations",
+            "children": [
+                {
+                    "name": "Dental Assistants",
+                    "value": "3270"
+                },
+                {
+                    "name": "Healthcare Support Workers, All Other",
+                    "value": "1250"
+                },
+                {
+                    "name": "Home Health Aides",
+                    "value": "4820"
+                },
+                {
+                    "name": "Massage Therapists",
+                    "value": "530"
+                },
+                {
+                    "name": "Medical Assistants",
+                    "value": "8570"
+                },
+                {
+                    "name": "Medical Equipment Preparers",
+                    "value": "1370"
+                },
+                {
+                    "name": "Medical Transcriptionists",
+                    "value": "480"
+                },
+                {
+                    "name": "Nursing Assistants",
+                    "value": "23280"
+                },
+                {
+                    "name": "Occupational Therapy Assistants",
+                    "value": "480"
+                },
+                {
+                    "name": "Orderlies",
+                    "value": "840"
+                },
+                {
+                    "name": "Pharmacy Aides",
+                    "value": "900"
+                },
+                {
+                    "name": "Phlebotomists",
+                    "value": "2090"
+                },
+                {
+                    "name": "Physical Therapist Aides",
+                    "value": "830"
+                },
+                {
+                    "name": "Physical Therapist Assistants",
+                    "value": "1890"
+                },
+                {
+                    "name": "Psychiatric Aides",
+                    "value": "1660"
+                },
+                {
+                    "name": "Veterinary Assistants and Laboratory Animal Caretakers",
+                    "value": "1040"
+                }
+            ]
+        },
+        {
+            "name": "Protective Service Occupations",
+            "children": [
+                {
+                    "name": "Animal Control Workers",
+                    "value": "210"
+                },
+                {
+                    "name": "Bailiffs",
+                    "value": "100"
+                },
+                {
+                    "name": "Correctional Officers and Jailers",
+                    "value": "5140"
+                },
+                {
+                    "name": "Crossing Guards",
+                    "value": "510"
+                },
+                {
+                    "name": "Detectives and Criminal Investigators",
+                    "value": "1280"
+                },
+                {
+                    "name": "Fire Inspectors and Investigators",
+                    "value": "130"
+                },
+                {
+                    "name": "Firefighters",
+                    "value": "4700"
+                },
+                {
+                    "name": "First-Line Supervisors of Correctional Officers",
+                    "value": "440"
+                },
+                {
+                    "name": "First-Line Supervisors of Fire Fighting and Prevention Workers",
+                    "value": "990"
+                },
+                {
+                    "name": "First-Line Supervisors of Police and Detectives",
+                    "value": "1240"
+                },
+                {
+                    "name": "First-Line Supervisors of Protective Service Workers, All Other",
+                    "value": "670"
+                },
+                {
+                    "name": "Fish and Game Wardens",
+                    "value": "140"
+                },
+                {
+                    "name": "Forest Fire Inspectors and Prevention Specialists",
+                    "value": "40"
+                },
+                {
+                    "name": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+                    "value": "1200"
+                },
+                {
+                    "name": "Parking Enforcement Workers",
+                    "value": "100"
+                },
+                {
+                    "name": "Police and Sheriff's Patrol Officers",
+                    "value": "10420"
+                },
+                {
+                    "name": "Private Detectives and Investigators",
+                    "value": "260"
+                },
+                {
+                    "name": "Protective Service Workers, All Other",
+                    "value": "1440"
+                },
+                {
+                    "name": "Security Guards",
+                    "value": "13150"
+                },
+                {
+                    "name": "Transportation Security Screeners",
+                    "value": "220"
+                }
+            ]
+        },
+        {
+            "name": "Food Preparation and Serving Related Occupations",
+            "children": [
+                {
+                    "name": "Bartenders",
+                    "value": "4120"
+                },
+                {
+                    "name": "Chefs and Head Cooks",
+                    "value": "880"
+                },
+                {
+                    "name": "Combined Food Preparation and Serving Workers, Including Fast Food",
+                    "value": "56540"
+                },
+                {
+                    "name": "Cooks, All Other",
+                    "value": "200"
+                },
+                {
+                    "name": "Cooks, Fast Food",
+                    "value": "6680"
+                },
+                {
+                    "name": "Cooks, Institution and Cafeteria",
+                    "value": "11320"
+                },
+                {
+                    "name": "Cooks, Restaurant",
+                    "value": "15420"
+                },
+                {
+                    "name": "Cooks, Short Order",
+                    "value": "2750"
+                },
+                {
+                    "name": "Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",
+                    "value": "4880"
+                },
+                {
+                    "name": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+                    "value": "2220"
+                },
+                {
+                    "name": "Dishwashers",
+                    "value": "4450"
+                },
+                {
+                    "name": "First-Line Supervisors of Food Preparation and Serving Workers",
+                    "value": "17160"
+                },
+                {
+                    "name": "Food Preparation Workers",
+                    "value": "7440"
+                },
+                {
+                    "name": "Food Preparation and Serving Related Workers, All Other",
+                    "value": "450"
+                },
+                {
+                    "name": "Food Servers, Nonrestaurant",
+                    "value": "1820"
+                },
+                {
+                    "name": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+                    "value": "4400"
+                },
+                {
+                    "name": "Waiters and Waitresses",
+                    "value": "32570"
+                }
+            ]
+        },
+        {
+            "name": "Building and Grounds Cleaning and Maintenance Occupations",
+            "children": [
+                {
+                    "name": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+                    "value": "2300"
+                },
+                {
+                    "name": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+                    "value": "1850"
+                },
+                {
+                    "name": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+                    "value": "30860"
+                },
+                {
+                    "name": "Landscaping and Groundskeeping Workers",
+                    "value": "12170"
+                },
+                {
+                    "name": "Maids and Housekeeping Cleaners",
+                    "value": "8840"
+                },
+                {
+                    "name": "Pest Control Workers",
+                    "value": "2130"
+                },
+                {
+                    "name": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+                    "value": "180"
+                },
+                {
+                    "name": "Tree Trimmers and Pruners",
+                    "value": "300"
+                }
+            ]
+        },
+        {
+            "name": "Personal Care and Service Occupations",
+            "children": [
+                {
+                    "name": "Amusement and Recreation Attendants",
+                    "value": "1960"
+                },
+                {
+                    "name": "Baggage Porters and Bellhops",
+                    "value": "140"
+                },
+                {
+                    "name": "Childcare Workers",
+                    "value": "8620"
+                },
+                {
+                    "name": "Embalmers",
+                    "value": "130"
+                },
+                {
+                    "name": "Entertainment Attendants and Related Workers, All Other",
+                    "value": "60"
+                },
+                {
+                    "name": "First-Line Supervisors of Gaming Workers",
+                    "value": "390"
+                },
+                {
+                    "name": "First-Line Supervisors of Personal Service Workers",
+                    "value": "2890"
+                },
+                {
+                    "name": "Fitness Trainers and Aerobics Instructors",
+                    "value": "2550"
+                },
+                {
+                    "name": "Funeral Attendants",
+                    "value": "650"
+                },
+                {
+                    "name": "Gaming and Sports Book Writers and Runners",
+                    "value": "290"
+                },
+                {
+                    "name": "Hairdressers, Hairstylists, and Cosmetologists",
+                    "value": "3540"
+                },
+                {
+                    "name": "Locker Room, Coatroom, and Dressing Room Attendants",
+                    "value": "50"
+                },
+                {
+                    "name": "Manicurists and Pedicurists",
+                    "value": "500"
+                },
+                {
+                    "name": "Morticians, Undertakers, and Funeral Directors",
+                    "value": "540"
+                },
+                {
+                    "name": "Nonfarm Animal Caretakers",
+                    "value": "2940"
+                },
+                {
+                    "name": "Personal Care Aides",
+                    "value": "13810"
+                },
+                {
+                    "name": "Personal Care and Service Workers, All Other",
+                    "value": "150"
+                },
+                {
+                    "name": "Recreation Workers",
+                    "value": "4940"
+                },
+                {
+                    "name": "Residential Advisors",
+                    "value": "2540"
+                },
+                {
+                    "name": "Shampooers",
+                    "value": "90"
+                },
+                {
+                    "name": "Skincare Specialists",
+                    "value": "330"
+                },
+                {
+                    "name": "Tour and Travel Guides",
+                    "value": "360"
+                },
+                {
+                    "name": "Ushers, Lobby Attendants, and Ticket Takers",
+                    "value": "600"
+                }
+            ]
+        },
+        {
+            "name": "Sales and Related Occupations",
+            "children": [
+                {
+                    "name": "Advertising Sales Agents",
+                    "value": "1430"
+                },
+                {
+                    "name": "Cashiers",
+                    "value": "69760"
+                },
+                {
+                    "name": "Counter and Rental Clerks",
+                    "value": "7990"
+                },
+                {
+                    "name": "Demonstrators and Product Promoters",
+                    "value": "730"
+                },
+                {
+                    "name": "First-Line Supervisors of Non-Retail Sales Workers",
+                    "value": "3450"
+                },
+                {
+                    "name": "First-Line Supervisors of Retail Sales Workers",
+                    "value": "23060"
+                },
+                {
+                    "name": "Insurance Sales Agents",
+                    "value": "5560"
+                },
+                {
+                    "name": "Parts Salespersons",
+                    "value": "4350"
+                },
+                {
+                    "name": "Real Estate Brokers",
+                    "value": "180"
+                },
+                {
+                    "name": "Real Estate Sales Agents",
+                    "value": "860"
+                },
+                {
+                    "name": "Retail Salespersons",
+                    "value": "58220"
+                },
+                {
+                    "name": "Sales Engineers",
+                    "value": "350"
+                },
+                {
+                    "name": "Sales Representatives, Services, All Other",
+                    "value": "7630"
+                },
+                {
+                    "name": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+                    "value": "23090"
+                },
+                {
+                    "name": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+                    "value": "1220"
+                },
+                {
+                    "name": "Sales and Related Workers, All Other",
+                    "value": "1010"
+                },
+                {
+                    "name": "Securities, Commodities, and Financial Services Sales Agents",
+                    "value": "2020"
+                },
+                {
+                    "name": "Telemarketers",
+                    "value": "2290"
+                },
+                {
+                    "name": "Travel Agents",
+                    "value": "470"
+                }
+            ]
+        },
+        {
+            "name": "Office and Administrative Support Occupations",
+            "children": [
+                {
+                    "name": "Bill and Account Collectors",
+                    "value": "3730"
+                },
+                {
+                    "name": "Billing and Posting Clerks",
+                    "value": "6740"
+                },
+                {
+                    "name": "Bookkeeping, Accounting, and Auditing Clerks",
+                    "value": "21500"
+                },
+                {
+                    "name": "Brokerage Clerks",
+                    "value": "650"
+                },
+                {
+                    "name": "Cargo and Freight Agents",
+                    "value": "850"
+                },
+                {
+                    "name": "Computer Operators",
+                    "value": "680"
+                },
+                {
+                    "name": "Correspondence Clerks",
+                    "value": "30"
+                },
+                {
+                    "name": "Couriers and Messengers",
+                    "value": "1230"
+                },
+                {
+                    "name": "Court, Municipal, and License Clerks",
+                    "value": "2600"
+                },
+                {
+                    "name": "Credit Authorizers, Checkers, and Clerks",
+                    "value": "190"
+                },
+                {
+                    "name": "Customer Service Representatives",
+                    "value": "32670"
+                },
+                {
+                    "name": "Data Entry Keyers",
+                    "value": "1360"
+                },
+                {
+                    "name": "Desktop Publishers",
+                    "value": "60"
+                },
+                {
+                    "name": "Dispatchers, Except Police, Fire, and Ambulance",
+                    "value": "2730"
+                },
+                {
+                    "name": "Eligibility Interviewers, Government Programs",
+                    "value": "2930"
+                },
+                {
+                    "name": "Executive Secretaries and Executive Administrative Assistants",
+                    "value": "3220"
+                },
+                {
+                    "name": "File Clerks",
+                    "value": "640"
+                },
+                {
+                    "name": "Financial Clerks, All Other",
+                    "value": "220"
+                },
+                {
+                    "name": "First-Line Supervisors of Office and Administrative Support Workers",
+                    "value": "17890"
+                },
+                {
+                    "name": "Hotel, Motel, and Resort Desk Clerks",
+                    "value": "3950"
+                },
+                {
+                    "name": "Human Resources Assistants, Except Payroll and Timekeeping",
+                    "value": "1340"
+                },
+                {
+                    "name": "Information and Record Clerks, All Other",
+                    "value": "1190"
+                },
+                {
+                    "name": "Insurance Claims and Policy Processing Clerks",
+                    "value": "2290"
+                },
+                {
+                    "name": "Interviewers, Except Eligibility and Loan",
+                    "value": "3600"
+                },
+                {
+                    "name": "Legal Secretaries",
+                    "value": "3710"
+                },
+                {
+                    "name": "Library Assistants, Clerical",
+                    "value": "1230"
+                },
+                {
+                    "name": "Loan Interviewers and Clerks",
+                    "value": "2760"
+                },
+                {
+                    "name": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+                    "value": "540"
+                },
+                {
+                    "name": "Medical Secretaries",
+                    "value": "5610"
+                },
+                {
+                    "name": "Meter Readers, Utilities",
+                    "value": "570"
+                },
+                {
+                    "name": "New Accounts Clerks",
+                    "value": "390"
+                },
+                {
+                    "name": "Office Clerks, General",
+                    "value": "30170"
+                },
+                {
+                    "name": "Office Machine Operators, Except Computer",
+                    "value": "530"
+                },
+                {
+                    "name": "Office and Administrative Support Workers, All Other",
+                    "value": "2020"
+                },
+                {
+                    "name": "Order Clerks",
+                    "value": "1060"
+                },
+                {
+                    "name": "Payroll and Timekeeping Clerks",
+                    "value": "1940"
+                },
+                {
+                    "name": "Police, Fire, and Ambulance Dispatchers",
+                    "value": "2730"
+                },
+                {
+                    "name": "Postal Service Clerks",
+                    "value": "1310"
+                },
+                {
+                    "name": "Postal Service Mail Carriers",
+                    "value": "5490"
+                },
+                {
+                    "name": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+                    "value": "1030"
+                },
+                {
+                    "name": "Procurement Clerks",
+                    "value": "630"
+                },
+                {
+                    "name": "Production, Planning, and Expediting Clerks",
+                    "value": "2780"
+                },
+                {
+                    "name": "Receptionists and Information Clerks",
+                    "value": "13760"
+                },
+                {
+                    "name": "Reservation and Transportation Ticket Agents and Travel Clerks",
+                    "value": "380"
+                },
+                {
+                    "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+                    "value": "45730"
+                },
+                {
+                    "name": "Shipping, Receiving, and Traffic Clerks",
+                    "value": "7920"
+                },
+                {
+                    "name": "Statistical Assistants",
+                    "value": "60"
+                },
+                {
+                    "name": "Stock Clerks and Order Fillers",
+                    "value": "24320"
+                },
+                {
+                    "name": "Switchboard Operators, Including Answering Service",
+                    "value": "1080"
+                },
+                {
+                    "name": "Tellers",
+                    "value": "9970"
+                },
+                {
+                    "name": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+                    "value": "1940"
+                },
+                {
+                    "name": "Word Processors and Typists",
+                    "value": "390"
+                }
+            ]
+        },
+        {
+            "name": "Farming, Fishing, and Forestry Occupations",
+            "children": [
+                {
+                    "name": "Agricultural Equipment Operators",
+                    "value": "160"
+                },
+                {
+                    "name": "Agricultural Inspectors",
+                    "value": "400"
+                },
+                {
+                    "name": "Agricultural Workers, All Other",
+                    "value": "340"
+                },
+                {
+                    "name": "Fallers",
+                    "value": "90"
+                },
+                {
+                    "name": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+                    "value": "420"
+                },
+                {
+                    "name": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+                    "value": "910"
+                },
+                {
+                    "name": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+                    "value": "370"
+                },
+                {
+                    "name": "Graders and Sorters, Agricultural Products",
+                    "value": "350"
+                },
+                {
+                    "name": "Log Graders and Scalers",
+                    "value": "110"
+                },
+                {
+                    "name": "Logging Equipment Operators",
+                    "value": "2120"
+                }
+            ]
+        },
+        {
+            "name": "Construction and Extraction Occupations",
+            "children": [
+                {
+                    "name": "Boilermakers",
+                    "value": "190"
+                },
+                {
+                    "name": "Brickmasons and Blockmasons",
+                    "value": "490"
+                },
+                {
+                    "name": "Carpenters",
+                    "value": "7270"
+                },
+                {
+                    "name": "Carpet Installers",
+                    "value": "120"
+                },
+                {
+                    "name": "Cement Masons and Concrete Finishers",
+                    "value": "1600"
+                },
+                {
+                    "name": "Construction Laborers",
+                    "value": "7900"
+                },
+                {
+                    "name": "Construction and Building Inspectors",
+                    "value": "1260"
+                },
+                {
+                    "name": "Drywall and Ceiling Tile Installers",
+                    "value": "800"
+                },
+                {
+                    "name": "Earth Drillers, Except Oil and Gas",
+                    "value": "260"
+                },
+                {
+                    "name": "Electricians",
+                    "value": "8670"
+                },
+                {
+                    "name": "Elevator Installers and Repairers",
+                    "value": "190"
+                },
+                {
+                    "name": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+                    "value": "150"
+                },
+                {
+                    "name": "Extraction Workers, All Other",
+                    "value": "40"
+                },
+                {
+                    "name": "Fence Erectors",
+                    "value": "330"
+                },
+                {
+                    "name": "First-Line Supervisors of Construction Trades and Extraction Workers",
+                    "value": "11060"
+                },
+                {
+                    "name": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+                    "value": "270"
+                },
+                {
+                    "name": "Floor Sanders and Finishers",
+                    "value": "30"
+                },
+                {
+                    "name": "Glaziers",
+                    "value": "460"
+                },
+                {
+                    "name": "Hazardous Materials Removal Workers",
+                    "value": "520"
+                },
+                {
+                    "name": "Helpers, Construction Trades, All Other",
+                    "value": "470"
+                },
+                {
+                    "name": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+                    "value": "290"
+                },
+                {
+                    "name": "Helpers--Carpenters",
+                    "value": "450"
+                },
+                {
+                    "name": "Helpers--Electricians",
+                    "value": "2040"
+                },
+                {
+                    "name": "Helpers--Extraction Workers",
+                    "value": "70"
+                },
+                {
+                    "name": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+                    "value": "180"
+                },
+                {
+                    "name": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+                    "value": "1010"
+                },
+                {
+                    "name": "Helpers--Roofers",
+                    "value": "190"
+                },
+                {
+                    "name": "Highway Maintenance Workers",
+                    "value": "3590"
+                },
+                {
+                    "name": "Insulation Workers, Floor, Ceiling, and Wall",
+                    "value": "440"
+                },
+                {
+                    "name": "Insulation Workers, Mechanical",
+                    "value": "230"
+                },
+                {
+                    "name": "Mine Cutting and Channeling Machine Operators",
+                    "value": "350"
+                },
+                {
+                    "name": "Miscellaneous Construction and Related Workers",
+                    "value": "870"
+                },
+                {
+                    "name": "Operating Engineers and Other Construction Equipment Operators",
+                    "value": "6000"
+                },
+                {
+                    "name": "Painters, Construction and Maintenance",
+                    "value": "2080"
+                },
+                {
+                    "name": "Paperhangers",
+                    "value": "40"
+                },
+                {
+                    "name": "Paving, Surfacing, and Tamping Equipment Operators",
+                    "value": "910"
+                },
+                {
+                    "name": "Pipelayers",
+                    "value": "2900"
+                },
+                {
+                    "name": "Plasterers and Stucco Masons",
+                    "value": "140"
+                },
+                {
+                    "name": "Plumbers, Pipefitters, and Steamfitters",
+                    "value": "5400"
+                },
+                {
+                    "name": "Rail-Track Laying and Maintenance Equipment Operators",
+                    "value": "190"
+                },
+                {
+                    "name": "Reinforcing Iron and Rebar Workers",
+                    "value": "80"
+                },
+                {
+                    "name": "Roofers",
+                    "value": "900"
+                },
+                {
+                    "name": "Rotary Drill Operators, Oil and Gas",
+                    "value": "60"
+                },
+                {
+                    "name": "Roustabouts, Oil and Gas",
+                    "value": "70"
+                },
+                {
+                    "name": "Septic Tank Servicers and Sewer Pipe Cleaners",
+                    "value": "340"
+                },
+                {
+                    "name": "Service Unit Operators, Oil, Gas, and Mining",
+                    "value": "140"
+                },
+                {
+                    "name": "Sheet Metal Workers",
+                    "value": "1090"
+                },
+                {
+                    "name": "Stonemasons",
+                    "value": "80"
+                },
+                {
+                    "name": "Structural Iron and Steel Workers",
+                    "value": "1260"
+                },
+                {
+                    "name": "Tile and Marble Setters",
+                    "value": "220"
+                }
+            ]
+        },
+        {
+            "name": "Installation, Maintenance, and Repair Occupations",
+            "children": [
+                {
+                    "name": "Automotive Body and Related Repairers",
+                    "value": "2220"
+                },
+                {
+                    "name": "Automotive Glass Installers and Repairers",
+                    "value": "240"
+                },
+                {
+                    "name": "Automotive Service Technicians and Mechanics",
+                    "value": "8110"
+                },
+                {
+                    "name": "Avionics Technicians",
+                    "value": "430"
+                },
+                {
+                    "name": "Bus and Truck Mechanics and Diesel Engine Specialists",
+                    "value": "4490"
+                },
+                {
+                    "name": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+                    "value": "530"
+                },
+                {
+                    "name": "Computer, Automated Teller, and Office Machine Repairers",
+                    "value": "1520"
+                },
+                {
+                    "name": "Control and Valve Installers and Repairers, Except Mechanical Door",
+                    "value": "1150"
+                },
+                {
+                    "name": "Electric Motor, Power Tool, and Related Repairers",
+                    "value": "400"
+                },
+                {
+                    "name": "Electrical Power-Line Installers and Repairers",
+                    "value": "3550"
+                },
+                {
+                    "name": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+                    "value": "1790"
+                },
+                {
+                    "name": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+                    "value": "1000"
+                },
+                {
+                    "name": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+                    "value": "140"
+                },
+                {
+                    "name": "Electronic Home Entertainment Equipment Installers and Repairers",
+                    "value": "170"
+                },
+                {
+                    "name": "Farm Equipment Mechanics and Service Technicians",
+                    "value": "520"
+                },
+                {
+                    "name": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+                    "value": "8280"
+                },
+                {
+                    "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+                    "value": "5040"
+                },
+                {
+                    "name": "Helpers--Installation, Maintenance, and Repair Workers",
+                    "value": "2880"
+                },
+                {
+                    "name": "Home Appliance Repairers",
+                    "value": "260"
+                },
+                {
+                    "name": "Industrial Machinery Mechanics",
+                    "value": "10720"
+                },
+                {
+                    "name": "Installation, Maintenance, and Repair Workers, All Other",
+                    "value": "2320"
+                },
+                {
+                    "name": "Locksmiths and Safe Repairers",
+                    "value": "360"
+                },
+                {
+                    "name": "Maintenance Workers, Machinery",
+                    "value": "1100"
+                },
+                {
+                    "name": "Maintenance and Repair Workers, General",
+                    "value": "13630"
+                },
+                {
+                    "name": "Manufactured Building and Mobile Home Installers",
+                    "value": "80"
+                },
+                {
+                    "name": "Medical Equipment Repairers",
+                    "value": "680"
+                },
+                {
+                    "name": "Millwrights",
+                    "value": "1030"
+                },
+                {
+                    "name": "Mobile Heavy Equipment Mechanics, Except Engines",
+                    "value": "2630"
+                },
+                {
+                    "name": "Motorboat Mechanics and Service Technicians",
+                    "value": "360"
+                },
+                {
+                    "name": "Motorcycle Mechanics",
+                    "value": "320"
+                },
+                {
+                    "name": "Musical Instrument Repairers and Tuners",
+                    "value": "140"
+                },
+                {
+                    "name": "Outdoor Power Equipment and Other Small Engine Mechanics",
+                    "value": "740"
+                },
+                {
+                    "name": "Precision Instrument and Equipment Repairers, All Other",
+                    "value": "210"
+                },
+                {
+                    "name": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+                    "value": "430"
+                },
+                {
+                    "name": "Rail Car Repairers",
+                    "value": "330"
+                },
+                {
+                    "name": "Recreational Vehicle Service Technicians",
+                    "value": "210"
+                },
+                {
+                    "name": "Refractory Materials Repairers, Except Brickmasons",
+                    "value": "70"
+                },
+                {
+                    "name": "Riggers",
+                    "value": "180"
+                },
+                {
+                    "name": "Security and Fire Alarm Systems Installers",
+                    "value": "920"
+                },
+                {
+                    "name": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+                    "value": "4420"
+                },
+                {
+                    "name": "Telecommunications Line Installers and Repairers",
+                    "value": "1220"
+                },
+                {
+                    "name": "Tire Repairers and Changers",
+                    "value": "2570"
+                }
+            ]
+        },
+        {
+            "name": "Production Occupations",
+            "children": [
+                {
+                    "name": "Adhesive Bonding Machine Operators and Tenders",
+                    "value": "150"
+                },
+                {
+                    "name": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+                    "value": "1410"
+                },
+                {
+                    "name": "Assemblers and Fabricators, All Other, Including Team Assemblers",
+                    "value": "38630"
+                },
+                {
+                    "name": "Bakers",
+                    "value": "1630"
+                },
+                {
+                    "name": "Butchers and Meat Cutters",
+                    "value": "1650"
+                },
+                {
+                    "name": "Cabinetmakers and Bench Carpenters",
+                    "value": "2590"
+                },
+                {
+                    "name": "Chemical Equipment Operators and Tenders",
+                    "value": "2270"
+                },
+                {
+                    "name": "Chemical Plant and System Operators",
+                    "value": "990"
+                },
+                {
+                    "name": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+                    "value": "340"
+                },
+                {
+                    "name": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+                    "value": "1800"
+                },
+                {
+                    "name": "Coil Winders, Tapers, and Finishers",
+                    "value": "330"
+                },
+                {
+                    "name": "Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",
+                    "value": "470"
+                },
+                {
+                    "name": "Computer-Controlled Machine Tool Operators, Metal and Plastic",
+                    "value": "1590"
+                },
+                {
+                    "name": "Cooling and Freezing Equipment Operators and Tenders",
+                    "value": "270"
+                },
+                {
+                    "name": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+                    "value": "1100"
+                },
+                {
+                    "name": "Cutters and Trimmers, Hand",
+                    "value": "390"
+                },
+                {
+                    "name": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+                    "value": "1680"
+                },
+                {
+                    "name": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "6090"
+                },
+                {
+                    "name": "Dental Laboratory Technicians",
+                    "value": "820"
+                },
+                {
+                    "name": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "630"
+                },
+                {
+                    "name": "Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",
+                    "value": "3290"
+                },
+                {
+                    "name": "Engine and Other Machine Assemblers",
+                    "value": "1710"
+                },
+                {
+                    "name": "Etchers and Engravers",
+                    "value": "50"
+                },
+                {
+                    "name": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "2320"
+                },
+                {
+                    "name": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+                    "value": "500"
+                },
+                {
+                    "name": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+                    "value": "2860"
+                },
+                {
+                    "name": "Fiberglass Laminators and Fabricators",
+                    "value": "430"
+                },
+                {
+                    "name": "First-Line Supervisors of Production and Operating Workers",
+                    "value": "12880"
+                },
+                {
+                    "name": "Food Batchmakers",
+                    "value": "1000"
+                },
+                {
+                    "name": "Food Cooking Machine Operators and Tenders",
+                    "value": "790"
+                },
+                {
+                    "name": "Food Processing Workers, All Other",
+                    "value": "950"
+                },
+                {
+                    "name": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+                    "value": "230"
+                },
+                {
+                    "name": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "980"
+                },
+                {
+                    "name": "Foundry Mold and Coremakers",
+                    "value": "280"
+                },
+                {
+                    "name": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+                    "value": "800"
+                },
+                {
+                    "name": "Furniture Finishers",
+                    "value": "480"
+                },
+                {
+                    "name": "Gas Plant Operators",
+                    "value": "290"
+                },
+                {
+                    "name": "Grinding and Polishing Workers, Hand",
+                    "value": "1010"
+                },
+                {
+                    "name": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "1710"
+                },
+                {
+                    "name": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "160"
+                },
+                {
+                    "name": "Helpers--Production Workers",
+                    "value": "18830"
+                },
+                {
+                    "name": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+                    "value": "11130"
+                },
+                {
+                    "name": "Jewelers and Precious Stone and Metal Workers",
+                    "value": "360"
+                },
+                {
+                    "name": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "270"
+                },
+                {
+                    "name": "Laundry and Dry-Cleaning Workers",
+                    "value": "3030"
+                },
+                {
+                    "name": "Layout Workers, Metal and Plastic",
+                    "value": "660"
+                },
+                {
+                    "name": "Machinists",
+                    "value": "5920"
+                },
+                {
+                    "name": "Meat, Poultry, and Fish Cutters and Trimmers",
+                    "value": "12240"
+                },
+                {
+                    "name": "Medical Appliance Technicians",
+                    "value": "60"
+                },
+                {
+                    "name": "Metal Workers and Plastic Workers, All Other",
+                    "value": "480"
+                },
+                {
+                    "name": "Metal-Refining Furnace Operators and Tenders",
+                    "value": "1460"
+                },
+                {
+                    "name": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "290"
+                },
+                {
+                    "name": "Mixing and Blending Machine Setters, Operators, and Tenders",
+                    "value": "2190"
+                },
+                {
+                    "name": "Molders, Shapers, and Casters, Except Metal and Plastic",
+                    "value": "210"
+                },
+                {
+                    "name": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "3960"
+                },
+                {
+                    "name": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "2280"
+                },
+                {
+                    "name": "Ophthalmic Laboratory Technicians",
+                    "value": "90"
+                },
+                {
+                    "name": "Packaging and Filling Machine Operators and Tenders",
+                    "value": "2920"
+                },
+                {
+                    "name": "Painters, Transportation Equipment",
+                    "value": "990"
+                },
+                {
+                    "name": "Painting, Coating, and Decorating Workers",
+                    "value": "680"
+                },
+                {
+                    "name": "Paper Goods Machine Setters, Operators, and Tenders",
+                    "value": "2810"
+                },
+                {
+                    "name": "Patternmakers, Metal and Plastic",
+                    "value": "200"
+                },
+                {
+                    "name": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+                    "value": "320"
+                },
+                {
+                    "name": "Photographic Process Workers and Processing Machine Operators",
+                    "value": "220"
+                },
+                {
+                    "name": "Plant and System Operators, All Other",
+                    "value": "40"
+                },
+                {
+                    "name": "Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "690"
+                },
+                {
+                    "name": "Pourers and Casters, Metal",
+                    "value": "370"
+                },
+                {
+                    "name": "Power Distributors and Dispatchers",
+                    "value": "470"
+                },
+                {
+                    "name": "Power Plant Operators",
+                    "value": "700"
+                },
+                {
+                    "name": "Prepress Technicians and Workers",
+                    "value": "250"
+                },
+                {
+                    "name": "Pressers, Textile, Garment, and Related Materials",
+                    "value": "730"
+                },
+                {
+                    "name": "Print Binding and Finishing Workers",
+                    "value": "370"
+                },
+                {
+                    "name": "Printing Press Operators",
+                    "value": "2100"
+                },
+                {
+                    "name": "Production Workers, All Other",
+                    "value": "6460"
+                },
+                {
+                    "name": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+                    "value": "1060"
+                },
+                {
+                    "name": "Sawing Machine Setters, Operators, and Tenders, Wood",
+                    "value": "2920"
+                },
+                {
+                    "name": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+                    "value": "300"
+                },
+                {
+                    "name": "Sewing Machine Operators",
+                    "value": "2810"
+                },
+                {
+                    "name": "Slaughterers and Meat Packers",
+                    "value": "3240"
+                },
+                {
+                    "name": "Stationary Engineers and Boiler Operators",
+                    "value": "300"
+                },
+                {
+                    "name": "Structural Metal Fabricators and Fitters",
+                    "value": "2880"
+                },
+                {
+                    "name": "Tailors, Dressmakers, and Custom Sewers",
+                    "value": "210"
+                },
+                {
+                    "name": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+                    "value": "230"
+                },
+                {
+                    "name": "Textile Cutting Machine Setters, Operators, and Tenders",
+                    "value": "280"
+                },
+                {
+                    "name": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+                    "value": "810"
+                },
+                {
+                    "name": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+                    "value": "2320"
+                },
+                {
+                    "name": "Textile, Apparel, and Furnishings Workers, All Other",
+                    "value": "360"
+                },
+                {
+                    "name": "Tire Builders",
+                    "value": "2040"
+                },
+                {
+                    "name": "Tool Grinders, Filers, and Sharpeners",
+                    "value": "310"
+                },
+                {
+                    "name": "Tool and Die Makers",
+                    "value": "620"
+                },
+                {
+                    "name": "Upholsterers",
+                    "value": "220"
+                },
+                {
+                    "name": "Water and Wastewater Treatment Plant and System Operators",
+                    "value": "2000"
+                },
+                {
+                    "name": "Welders, Cutters, Solderers, and Brazers",
+                    "value": "9330"
+                },
+                {
+                    "name": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+                    "value": "1120"
+                },
+                {
+                    "name": "Woodworkers, All Other",
+                    "value": "340"
+                },
+                {
+                    "name": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+                    "value": "2160"
+                }
+            ]
+        },
+        {
+            "name": "Transportation and Material Moving Occupations",
+            "children": [
+                {
+                    "name": "Air Traffic Controllers",
+                    "value": "230"
+                },
+                {
+                    "name": "Airfield Operations Specialists",
+                    "value": "60"
+                },
+                {
+                    "name": "Airline Pilots, Copilots, and Flight Engineers",
+                    "value": "310"
+                },
+                {
+                    "name": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+                    "value": "430"
+                },
+                {
+                    "name": "Automotive and Watercraft Service Attendants",
+                    "value": "1810"
+                },
+                {
+                    "name": "Bus Drivers, School or Special Client",
+                    "value": "9270"
+                },
+                {
+                    "name": "Bus Drivers, Transit and Intercity",
+                    "value": "1310"
+                },
+                {
+                    "name": "Captains, Mates, and Pilots of Water Vessels",
+                    "value": "170"
+                },
+                {
+                    "name": "Cleaners of Vehicles and Equipment",
+                    "value": "5830"
+                },
+                {
+                    "name": "Commercial Pilots",
+                    "value": "1030"
+                },
+                {
+                    "name": "Conveyor Operators and Tenders",
+                    "value": "170"
+                },
+                {
+                    "name": "Crane and Tower Operators",
+                    "value": "1080"
+                },
+                {
+                    "name": "Driver/Sales Workers",
+                    "value": "5190"
+                },
+                {
+                    "name": "Excavating and Loading Machine and Dragline Operators",
+                    "value": "1320"
+                },
+                {
+                    "name": "First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",
+                    "value": "7190"
+                },
+                {
+                    "name": "Heavy and Tractor-Trailer Truck Drivers",
+                    "value": "30720"
+                },
+                {
+                    "name": "Hoist and Winch Operators",
+                    "value": "60"
+                },
+                {
+                    "name": "Industrial Truck and Tractor Operators",
+                    "value": "9130"
+                },
+                {
+                    "name": "Laborers and Freight, Stock, and Material Movers, Hand",
+                    "value": "42260"
+                },
+                {
+                    "name": "Light Truck or Delivery Services Drivers",
+                    "value": "12930"
+                },
+                {
+                    "name": "Loading Machine Operators, Underground Mining",
+                    "value": "80"
+                },
+                {
+                    "name": "Locomotive Engineers",
+                    "value": "820"
+                },
+                {
+                    "name": "Machine Feeders and Offbearers",
+                    "value": "1680"
+                },
+                {
+                    "name": "Material Moving Workers, All Other",
+                    "value": "120"
+                },
+                {
+                    "name": "Motor Vehicle Operators, All Other",
+                    "value": "720"
+                },
+                {
+                    "name": "Packers and Packagers, Hand",
+                    "value": "6900"
+                },
+                {
+                    "name": "Parking Lot Attendants",
+                    "value": "470"
+                },
+                {
+                    "name": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+                    "value": "150"
+                },
+                {
+                    "name": "Railroad Brake, Signal, and Switch Operators",
+                    "value": "190"
+                },
+                {
+                    "name": "Railroad Conductors and Yardmasters",
+                    "value": "1050"
+                },
+                {
+                    "name": "Refuse and Recyclable Material Collectors",
+                    "value": "2080"
+                },
+                {
+                    "name": "Sailors and Marine Oilers",
+                    "value": "340"
+                },
+                {
+                    "name": "Tank Car, Truck, and Ship Loaders",
+                    "value": "640"
+                },
+                {
+                    "name": "Taxi Drivers and Chauffeurs",
+                    "value": "1360"
+                },
+                {
+                    "name": "Transportation Workers, All Other",
+                    "value": "260"
+                }
+            ]
+        }
+    ]
+}
+
+
+    
